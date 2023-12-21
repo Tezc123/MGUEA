@@ -1,5 +1,5 @@
 
-CUDA_VISIBLE_DEVICES=$1 python3 src/run.py \
+CUDA_VISIBLE_DEVICES=$1 python3 src/unsupervised.py \
     --file_dir data/DBP15K/$3 \
     --rate 0.3 \
     --lr .0005 \
@@ -7,8 +7,10 @@ CUDA_VISIBLE_DEVICES=$1 python3 src/run.py \
     --hidden_units "300,300,300" \
     --check_point 50  \
     --bsize 512 \
+    --topk 7000\
+    --topl 5\
     --il \
-    --il_start 500 \
+    --il_start 300 \
     --semi_learn_step 5 \
     --csls \
     --csls_k 3 \
