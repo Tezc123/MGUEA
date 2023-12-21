@@ -4,6 +4,7 @@ An unsupervised entity alignment method based on multi-dimensional entity featur
 # Dataset
 The DBP15K dataset comes from the [EVA](https://github.com/cambridgeltl/eva) repository. You can download the image feature following the guidance of EVA repository, and then unzip it into the `data/pkls` directory. The name feature can be downloaded from [Glove](https://nlp.stanford.edu/data/glove.6B.zip), you can unzip it into the `data/embedding` directory.
 
+The directory structure of `data` is as follows:
 ```
 - data
     - DBP15K
