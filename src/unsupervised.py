@@ -264,7 +264,7 @@ class MCLEA:
         # train/val/test split
         if self.args.unsup:
             # if unsupervised? use image to obtain links
-            self.train_ill = self.visual_pivot_induction(mode=self.args.unsup_mode)
+            self.train_ill = self.visual_pivot_induction()
         else:
             # if supervised
             self.train_ill = np.array(self.ills[:int(len(self.ills) // 1 * self.args.rate)], dtype=np.int32)
