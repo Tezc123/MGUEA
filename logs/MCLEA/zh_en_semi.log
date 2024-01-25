@@ -1,0 +1,100 @@
+2023-11-27 23:58:38,789 - INFO: epoch 49 checkpoint!
+2023-11-27 23:58:42,139 - INFO: l2r: acc of top [1, 10] = [0.9361 0.9907], mr = 1.397, mrr = 0.958, time = 3.3491 s 
+2023-11-27 23:58:42,140 - INFO: r2l: acc of top [1, 10] = [0.9275 0.9901], mr = 1.439, mrr = 0.952, time = 3.3507 s 
+2023-11-28 00:00:46,519 - INFO: epoch 99 checkpoint!
+2023-11-28 00:00:49,881 - INFO: l2r: acc of top [1, 10] = [0.942 0.9911], mr = 1.356, mrr = 0.962, time = 3.3609 s 
+2023-11-28 00:00:49,882 - INFO: r2l: acc of top [1, 10] = [0.9372 0.992 ], mr = 1.394, mrr = 0.958, time = 3.3623 s 
+2023-11-28 00:02:54,131 - INFO: epoch 149 checkpoint!
+2023-11-28 00:02:57,476 - INFO: l2r: acc of top [1, 10] = [0.9432  0.9901], mr = 1.419, mrr = 0.962, time = 3.3446 s 
+2023-11-28 00:02:57,478 - INFO: r2l: acc of top [1, 10] = [0.9382 0.9912], mr = 1.438, mrr = 0.959, time = 3.3463 s 
+2023-11-28 00:05:02,082 - INFO: epoch 199 checkpoint!
+2023-11-28 00:05:05,418 - INFO: l2r: acc of top [1, 10] = [0.9434 0.9896], mr = 1.537, mrr = 0.962, time = 3.3360 s 
+2023-11-28 00:05:05,420 - INFO: r2l: acc of top [1, 10] = [0.9390 0.9898], mr = 1.522, mrr = 0.959, time = 3.3376 s 
+2023-11-28 00:07:09,617 - INFO: epoch 249 checkpoint!
+2023-11-28 00:07:12,963 - INFO: l2r: acc of top [1, 10] = [0.9448 0.989 ], mr = 1.668, mrr = 0.963, time = 3.3451 s 
+2023-11-28 00:07:12,964 - INFO: r2l: acc of top [1, 10] = [0.9393 0.9895], mr = 1.622, mrr = 0.959, time = 3.3467 s 
+2023-11-28 00:09:17,402 - INFO: epoch 299 checkpoint!
+2023-11-28 00:09:20,772 - INFO: l2r: acc of top [1, 10] = [0.9432 0.9893], mr = 1.846, mrr = 0.962, time = 3.3684 s 
+2023-11-28 00:09:20,773 - INFO: r2l: acc of top [1, 10] = [0.939  0.9894], mr = 1.750, mrr = 0.959, time = 3.3701 s 
+2023-11-28 00:11:24,986 - INFO: epoch 349 checkpoint!
+2023-11-28 00:11:28,369 - INFO: l2r: acc of top [1, 10] = [0.9435 0.9893], mr = 2.039, mrr = 0.962, time = 3.3820 s 
+2023-11-28 00:11:28,370 - INFO: r2l: acc of top [1, 10] = [0.9397 0.9889], mr = 1.872, mrr = 0.959, time = 3.3836 s 
+2023-11-28 00:13:32,154 - INFO: epoch 399 checkpoint!
+2023-11-28 00:13:35,533 - INFO: l2r: acc of top [1, 10] = [0.9443 0.9884], mr = 2.369, mrr = 0.961, time = 3.3783 s 
+2023-11-28 00:13:35,534 - INFO: r2l: acc of top [1, 10] = [0.9397 0.9886], mr = 2.060, mrr = 0.958, time = 3.3798 s 
+2023-11-28 00:15:39,402 - INFO: epoch 449 checkpoint!
+2023-11-28 00:15:42,734 - INFO: l2r: acc of top [1, 10] = [0.9436 0.9885], mr = 2.555, mrr = 0.961, time = 3.3312 s 
+2023-11-28 00:15:42,736 - INFO: r2l: acc of top [1, 10] = [0.9389 0.9883], mr = 2.206, mrr = 0.958, time = 3.3329 s 
+2023-11-28 00:17:46,821 - INFO: epoch 499 checkpoint!
+2023-11-28 00:17:50,218 - INFO: l2r: acc of top [1, 10] = [0.9427 0.9878], mr = 2.767, mrr = 0.960, time = 3.3962 s 
+2023-11-28 00:17:50,220 - INFO: r2l: acc of top [1, 10] = [0.9391 0.9882], mr = 2.375, mrr = 0.958, time = 3.3979 s 
+2023-11-28 00:20:11,120 - INFO: new_links_elect: 11596
+2023-11-28 00:20:11,123 - INFO: train_ill length: 16096
+2023-11-28 00:20:13,626 - INFO: true_links: 8643
+2023-11-28 00:20:13,626 - INFO: true link ratio: 74.5%
+2023-11-28 00:20:14,374 - INFO: epoch 549 checkpoint!
+2023-11-28 00:20:17,783 - INFO: l2r: acc of top [1, 10] = [0.941  0.9881], mr = 2.373, mrr = 0.959, time = 3.4091 s 
+2023-11-28 00:20:17,784 - INFO: r2l: acc of top [1, 10] = [0.9375 0.9893], mr = 2.160, mrr = 0.957, time = 3.4106 s 
+2023-11-28 00:27:16,160 - INFO: new_links_elect: 1533
+2023-11-28 00:27:16,160 - INFO: train_ill length: 17629
+2023-11-28 00:27:16,507 - INFO: true_links: 1032
+2023-11-28 00:27:16,507 - INFO: true link ratio: 67.3%
+2023-11-28 00:27:16,566 - INFO: epoch 599 checkpoint!
+2023-11-28 00:27:19,932 - INFO: l2r: acc of top [1, 10] = [0.9613 0.9961], mr = 1.187, mrr = 0.975, time = 3.3656 s 
+2023-11-28 00:27:19,933 - INFO: r2l: acc of top [1, 10] = [0.9569 0.9961], mr = 1.182, mrr = 0.973, time = 3.3672 s 
+2023-11-28 00:34:56,166 - INFO: new_links_elect: 517
+2023-11-28 00:34:56,166 - INFO: train_ill length: 18146
+2023-11-28 00:34:56,296 - INFO: true_links: 274
+2023-11-28 00:34:56,296 - INFO: true link ratio: 53.0%
+2023-11-28 00:34:56,325 - INFO: epoch 649 checkpoint!
+2023-11-28 00:34:59,692 - INFO: l2r: acc of top [1, 10] = [0.9686 0.9963], mr = 1.148, mrr = 0.978, time = 3.3667 s 
+2023-11-28 00:34:59,694 - INFO: r2l: acc of top [1, 10] = [0.9656 0.9962], mr = 1.152, mrr = 0.976, time = 3.3684 s 
+2023-11-28 00:42:48,979 - INFO: new_links_elect: 246
+2023-11-28 00:42:48,979 - INFO: train_ill length: 18392
+2023-11-28 00:42:49,048 - INFO: true_links: 98
+2023-11-28 00:42:49,049 - INFO: true link ratio: 39.8%
+2023-11-28 00:42:49,073 - INFO: epoch 699 checkpoint!
+2023-11-28 00:42:52,440 - INFO: l2r: acc of top [1, 10] = [0.9714 0.9965], mr = 1.142, mrr = 0.981, time = 3.3671 s 
+2023-11-28 00:42:52,442 - INFO: r2l: acc of top [1, 10] = [0.9687 0.9964], mr = 1.146, mrr = 0.980, time = 3.3688 s 
+2023-11-28 00:50:41,445 - INFO: new_links_elect: 136
+2023-11-28 00:50:41,445 - INFO: train_ill length: 18528
+2023-11-28 00:50:41,487 - INFO: true_links: 44
+2023-11-28 00:50:41,487 - INFO: true link ratio: 32.4%
+2023-11-28 00:50:41,514 - INFO: epoch 749 checkpoint!
+2023-11-28 00:50:44,900 - INFO: l2r: acc of top [1, 10] = [0.9718 0.9965], mr = 1.151, mrr = 0.981, time = 3.3860 s 
+2023-11-28 00:50:44,901 - INFO: r2l: acc of top [1, 10] = [0.9711 0.9964], mr = 1.155, mrr = 0.980, time = 3.3875 s 
+2023-11-28 00:58:44,817 - INFO: new_links_elect: 98
+2023-11-28 00:58:44,818 - INFO: train_ill length: 18626
+2023-11-28 00:58:44,848 - INFO: true_links: 24
+2023-11-28 00:58:44,848 - INFO: true link ratio: 24.5%
+2023-11-28 00:58:44,873 - INFO: epoch 799 checkpoint!
+2023-11-28 00:58:48,234 - INFO: l2r: acc of top [1, 10] = [0.9721  0.9964], mr = 1.165, mrr = 0.981, time = 3.3601 s 
+2023-11-28 00:58:48,235 - INFO: r2l: acc of top [1, 10] = [0.9711 0.9964], mr = 1.176, mrr = 0.981, time = 3.3616 s 
+2023-11-28 01:06:48,870 - INFO: new_links_elect: 81
+2023-11-28 01:06:48,870 - INFO: train_ill length: 18707
+2023-11-28 01:06:48,896 - INFO: true_links: 17
+2023-11-28 01:06:48,896 - INFO: true link ratio: 21.0%
+2023-11-28 01:06:48,920 - INFO: epoch 849 checkpoint!
+2023-11-28 01:06:52,301 - INFO: l2r: acc of top [1, 10] = [0.9721 0.9964], mr = 1.177, mrr = 0.981, time = 3.3808 s 
+2023-11-28 01:06:52,302 - INFO: r2l: acc of top [1, 10] = [0.9722 0.9964 ], mr = 1.180, mrr = 0.981, time = 3.3824 s 
+2023-11-28 01:14:53,809 - INFO: new_links_elect: 70
+2023-11-28 01:14:53,810 - INFO: train_ill length: 18777
+2023-11-28 01:14:53,832 - INFO: true_links: 14
+2023-11-28 01:14:53,833 - INFO: true link ratio: 20.0%
+2023-11-28 01:14:53,853 - INFO: epoch 899 checkpoint!
+2023-11-28 01:14:57,211 - INFO: l2r: acc of top [1, 10] = [0.9724 0.9963], mr = 1.196, mrr = 0.981, time = 3.3576 s 
+2023-11-28 01:14:57,213 - INFO: r2l: acc of top [1, 10] = [0.9721 0.9964], mr = 1.194, mrr = 0.981, time = 3.3593 s 
+2023-11-28 01:22:58,659 - INFO: new_links_elect: 54
+2023-11-28 01:22:58,660 - INFO: train_ill length: 18831
+2023-11-28 01:22:58,676 - INFO: true_links: 15
+2023-11-28 01:22:58,676 - INFO: true link ratio: 27.8%
+2023-11-28 01:22:58,696 - INFO: epoch 949 checkpoint!
+2023-11-28 01:23:02,060 - INFO: l2r: acc of top [1, 10] = [0.9723 0.9963], mr = 1.228, mrr = 0.981, time = 3.3631 s 
+2023-11-28 01:23:02,061 - INFO: r2l: acc of top [1, 10] = [0.9721  0.9964], mr = 1.216, mrr = 0.980, time = 3.3647 s 
+2023-11-28 01:31:02,601 - INFO: new_links_elect: 49
+2023-11-28 01:31:02,602 - INFO: train_ill length: 18880
+2023-11-28 01:31:02,618 - INFO: true_links: 10
+2023-11-28 01:31:02,618 - INFO: true link ratio: 20.4%
+2023-11-28 01:31:02,640 - INFO: epoch 999 checkpoint!
+2023-11-28 01:31:06,634 - INFO: l2r: acc of top [1, 10] = [0.9723 0.9960], mr = 1.272, mrr = 0.980, time = 3.9932 s 
+2023-11-28 01:31:06,635 - INFO: r2l: acc of top [1, 10] = [0.972  0.9961], mr = 1.239, mrr = 0.980, time = 3.9945 s 
