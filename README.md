@@ -28,9 +28,9 @@ The directory structure of `data` is as follows:
 
 # Training
 ```
-bash run_dbp15k.sh 0 2024 zh_en
-bash run_dbp15k.sh 0 2024 ja_en
-bash run_dbp15k.sh 0 2024 fr_en
+bash run_dbp15k.sh 0 42 zh_en
+bash run_dbp15k.sh 0 42 ja_en
+bash run_dbp15k.sh 0 42 fr_en
 ```
 
 # Citation
