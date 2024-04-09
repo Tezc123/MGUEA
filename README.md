@@ -1,6 +1,5 @@
-# UsM2EA
-An unsupervised entity alignment method based on multi-dimensional entity features and alignment seeds noise reduction
-
+# NEUsEA
+A Seeds Noise Reduction enhanced Unsupervised Multi-modal Entity Alignment Method
 # Dataset
 The DBP15K dataset comes from the [EVA](https://github.com/cambridgeltl/eva) repository. You can download the image feature following the guidance of EVA repository, and then unzip it into the `data/pkls` directory. The name feature can be downloaded from [Glove](https://nlp.stanford.edu/data/glove.6B.zip), you can unzip it into the `data/embedding` directory.
 
